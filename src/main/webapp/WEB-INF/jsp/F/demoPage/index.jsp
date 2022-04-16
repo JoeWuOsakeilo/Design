@@ -110,6 +110,8 @@
                             <div class="banner__content p-absolute transition-3">
                                 <h5><a href="product-details.html">Chair Kimi No Isu <br>
                                     Project</a></h5>
+                                    <p>一二三四</p>
+                                    
                                 <a href="product-details.html" class="link-btn">Discover now</a>
                             </div>
                         </div>
