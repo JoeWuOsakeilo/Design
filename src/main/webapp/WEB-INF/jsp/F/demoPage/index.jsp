@@ -109,17 +109,17 @@
                             </div>
                             <div class="banner__content p-absolute transition-3">
                                 <h5><a href="product-details.html">Chair Kimi No Isu <br>
-<<<<<<< HEAD
+
                                     Project</a></h5>                                   
-=======
+
                                     Project</a></h5>
-Mary0418
+
                                     <p>一二三四6666543215432166288</p>
 
                                     <p>一二三四666654321 87654</p>
-master
+
                                     
->>>>>>> 86dfd3235106336fbe3e43b0fa300d15a94ca9b5
+
                                 <a href="product-details.html" class="link-btn">Discover now</a>
                             </div>
                         </div>
